@@ -52,15 +52,6 @@
 
 ### **IaC**
 ![CDK](https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-- **Backend**: Go, TypeScript, Python
-- **FrameWork**: Gin, React, Next.js, NestJS, Hono, Django, FastAPI
-- **Frontend**: TypeScript, JavaScript, HTML, CSS
-- **Database**: PostgreSQL
-- **Container**: Kubernetes
-- **Infrastructure**: Google Cloud
-- **IaC**: CDK with TypeScript
 
 ---
 
