@@ -1,4 +1,4 @@
-# 👋 Hi, I'm takehiro1111 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/AT01955203)
+# 👋 Hi, I'm takehiro1111 [![X (formerly Twitter) Follow(https://img.shields.io/twitter/follow/AT01955203)](https://x.com/AT01955203)
 
 ## 🚀 About Me
 
