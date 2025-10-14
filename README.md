@@ -23,7 +23,7 @@
 ## 🌱 Currently Learning
 
 - **Backend**: Go, TypeScript, Python
-- **FrameWork**: React, Next.js, NestJS, Hono, Django, FastAPI
+- **FrameWork**: Gin, React, Next.js, NestJS, Hono, Django, FastAPI
 - **Frontend**: TypeScript, JavaScript, HTML, CSS
 - **Database**: PostgreSQL
 - **Container**: Kubernetes
