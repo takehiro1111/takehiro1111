@@ -20,6 +20,18 @@
 
 ---
 
+## 🌱 New tech stacks I want to learn
+
+- **Backend**: Go, TypeScript, Python, Scala, Rust, Java
+- **FrameWork**: Gin, Echo, React, Next.js, NestJS, Hono, Django, FastAPI
+- **Frontend**: TypeScript, JavaScript, React, Next, HTML, CSS(Tailwind)
+- **Database**: PostgreSQL
+- **Container**: Kubernetes
+- **Infrastructure**: Google Cloud
+- **IaC**: CDK with TypeScript
+
+---
+
 ## 💻 Tech Stack
 
 ### **Backend**
