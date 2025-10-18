@@ -15,8 +15,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-silk-gamma-51.vercel.app/api?username=takehiro1111&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats-silk-gamma-51.vercel.app/api/top-langs/?username=takehiro1111&layout=compact&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats-silk-gamma-51.vercel.app/api?username=takehiro1111&show_icons=true&theme=dark&count_private=true&cache_seconds=0)
+![Top Langs](https://github-readme-stats-silk-gamma-51.vercel.app/api/top-langs/?username=takehiro1111&layout=compact&theme=dark&count_private=true&cache_seconds=0)
 
 ---
 
