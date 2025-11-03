@@ -17,9 +17,9 @@ SRE、インフラ、バックエンドを軸に約3年経験しております�
 - **自己学習**: Go, Gin, TypeScript, React, Next.js, Express.js, Python, Flask, HTML, CSS
 
 ### DB
-- MySQL, PostgreSQL, DynamoDB, BigQuery, Redshift
+- MySQL, PostgreSQL, Aurora, DynamoDB, BigQuery, Redshift, OpenSearch
 
-### インフラ・クラウド
+### インフラ
 - **クラウド**: AWS, Azure, GCP
 - **コンテナ**: Docker, ECS
 - **IaC**: Terraform, AWS SAM
