@@ -78,7 +78,7 @@ SRE、インフラ、バックエンドを軸に約3年経験しております�
 - 新規,既存プロダクトのインフラ環境の設計,構築,運用改善,障害対応
 - 全環境のネットワーク構成をVPC Originへ移行
 - GCPリソースのTerraform化
-- GithubActionsでのTerraformワークフロー構築(AWS, Azure, Google Cloud)
+- GithubActionsでのCI/CD構築(AWS, Azure, Google Cloud, サーバレス, アプリケーション)
 - GA4からBigQueryへのデータ連携パイプラインを構築し、Redashで可視化
 - 全セキュリティグループの整備、公式Moduleへのリファクタリング
 - MySQLのDB基盤をEC2からAuroraへ移行
