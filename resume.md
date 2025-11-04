@@ -28,7 +28,7 @@ SRE、インフラ、バックエンドを軸に約3年経験しております�
 
 ### ツール・その他
 - **バージョン管理**: Git, GitHub
-- **監視**: Prometheus, Grafana, CloudWatch, Zabbix
+- **監視**: Prometheus, Grafana, CloudWatch
 - **MW**: Apache, Nginx, Tomcat, Postfix, Fluentd
 - **コミュニケーション**: Slack, Google Chat, Teams
 - **タスク管理**: Jira, Confluence
