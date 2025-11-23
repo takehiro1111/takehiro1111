@@ -7,9 +7,8 @@
 | 居住地   | 東京都(広島県へUターン予定)                             |
 
 # 職務要約
-エンジニアとしてSRE,インフラを軸に約3年経験しております。  
+エンジニアとしてSRE,インフラをメインに約3年経験しております。  
 今までの経験を活かした上で、今後はバックエンドを軸にフルレンジでプロダクト開発に携わりたいと考えております。  
-自己学習ではアプリケーション開発に取り組んでいます。
 
 # スキルセット
 
@@ -28,17 +27,17 @@
 - **OS**: Red Hat Enterprise Linux 8.5, Amazon Linux 2, Windows Server 2019
 
 ### ツール・その他
-- **バージョン管理**: Git, GitHub
-- **監視**: Prometheus, Grafana, CloudWatch
+- **Version Management**: Git, GitHub
+- **Monitoring**: Prometheus, Grafana, CloudWatch
 - **MW**: Apache, Nginx, Tomcat, Postfix, Fluentd
-- **コミュニケーション**: Slack, Google Chat, Teams
-- **タスク管理**: Jira, Confluence
+- **Chat**: Slack, Google Chat, Teams
+- **Document**: Confluence, Notion
+- **Task Management**: Confluence, Notion
 - **PC** MacBook Pro
 
 ## 自己PR
 
 ### 技術に対する向上心、学習意欲
-業務時間外でもほぼ毎日コードを書いています。
 エンジニアとしてアプリケーション全体を見られるよう、インフラだけでなくバックエンド、フロントエンド、DB、CI/CD等幅広い技術領域を身につけたいと思い日々学習しております。  
 (仕事のためというのもありますが、コードを書くことが好き & 楽しいためです。)
 
