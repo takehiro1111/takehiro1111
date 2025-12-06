@@ -25,7 +25,6 @@
 - **Frontend**: React, Next.js, SvelteKit
 - **Database**: DB Design
 - **Observability**: OpenTelemetry
-- **Infrastructure**: Google Cloud
 - **IaC**: CDK with TypeScript
 
 ---
