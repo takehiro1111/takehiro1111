@@ -21,10 +21,9 @@
 
 ## 🌱 New tech stacks I want to learn
 
-- **Backend**: API Design, Go, Scala, Gin, Echo, React, Next.js, NestJS, Hono, FastAPI
+- **Backend**: API Design, Go, Scala, Gin, Echo, React, NestJS, Hono, FastAPI
 - **Frontend**: React, Next.js, SvelteKit
-- **Database**: PostgreSQL, DB Design
-- **Container**: Kubernetes
+- **Database**: DB Design
 - **Observability**: OpenTelemetry
 - **Infrastructure**: Google Cloud
 - **IaC**: CDK with TypeScript
