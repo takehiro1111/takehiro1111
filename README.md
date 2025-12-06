@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 ```
-🔧 AS-IS: SRE / Platform Enginner
-🌟 TO-BE: Product Engineer / FullStack Engineer / Backend Engineer
+🔧 AS-IS: SRE / Platform Enginner / Backend Engineer
+🌟 TO-BE: Product Engineer / FullStack Engineer 
 🎯 GOAL : Tech Lead
 ```
 ---
