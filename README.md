@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 ```
-🔧 AS-IS: SRE @ Python/TypeScript/AWS/Terraform/GithubActions/MySQL  
+🔧 AS-IS: SRE / Platform Enginner
 🌟 TO-BE: Product Engineer / FullStack Engineer / Backend Engineer
 🎯 GOAL : Tech Lead
 ```
