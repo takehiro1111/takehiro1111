@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 ```
-🔧 AS-IS: SRE / Platform / Backend Engineer
+🔧 AS-IS: Backend Engineer / SRE / Platform Engineer
 🌟 TO-BE: Product Engineer
 🎯 GOAL : Tech Lead
 ```
@@ -16,16 +16,6 @@
 
 ![GitHub Stats](https://github-readme-stats-silk-gamma-51.vercel.app/api?username=takehiro1111&show_icons=true&theme=dark&count_private=true&cache_seconds=0)
 ![Top Langs](https://github-readme-stats-silk-gamma-51.vercel.app/api/top-langs/?username=takehiro1111&layout=compact&theme=dark&count_private=true&cache_seconds=0)
-
----
-
-## 🌱 New tech stacks I want to learn
-
-- **Backend**: API Design, Go, Scala, Gin, Echo, React, NestJS, Hono, FastAPI
-- **Frontend**: React, Next.js, SvelteKit
-- **Database**: DB Design
-- **Observability**: OpenTelemetry
-- **IaC**: CDK with TypeScript
 
 ---
 
