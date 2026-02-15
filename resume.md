@@ -51,6 +51,10 @@
 - **Zenn**: https://zenn.dev/takehiro1111
 - **Qita** https://qiita.com/takehiro1111
 
+### ポートフォリオ
+- Go, Gin, ReactによるTodoアプリ開発(開発中)
+- 個人開発のプロダクト（構想段階）
+
 # 職務経歴詳細
 
 ## 株式会社スリーシェイク
