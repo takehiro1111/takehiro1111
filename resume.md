@@ -4,33 +4,33 @@
 | -------- | ------------------------------ |
 | 名前     | 田中 雄大                      |
 | 年齢     | 31歳                      |
-| 居住地   | 東京都(広島県へUターン予定)                             |
+| 居住地   | 広島県福山市                           |
 
 # 職務要約
 エンジニアとしてSRE,インフラをメインに約3年経験しております。  
-今までの経験を活かした上で、今後はバックエンドを軸にフルレンジでプロダクト開発に携わりたいと考えております。  
+今までのSRE,インフラ側の経験を活かした上で、今後はプロダクトエンジニアとしてビジネス課題を主体的に見つけていきながらプロダクトの成長にコミットしたいと考えております。
 
 # スキルセット
 
 ### 言語・フレームワーク
-- **業務**: Python, TypeScript, JavaScript, Scala, NestJS, Sveltekit, Play
+- **業務**: Python, Go, TypeScript, JavaScript, Next.js, Hono
 - **自己学習**: Go, Gin, TypeScript, React, Next.js, Express.js, Python, Flask, HTML, CSS
 
 ### DB
 - MySQL, PostgreSQL, Aurora, DynamoDB, BigQuery, Redshift, OpenSearch
 
 ### インフラ
-- **クラウド**: AWS, Azure, GCP
+- **クラウド**: AWS, Google Cloud, Azure
 - **コンテナ**: Docker, ECS
 - **IaC**: Terraform, AWS SAM
-- **CI/CD**: GitHub Actions
+- **CI/CD**: GitHub Actions, GitLab CI/CD
 - **OS**: Red Hat Enterprise Linux 8.5, Amazon Linux 2, Windows Server 2019
 
 ### ツール・その他
-- **Version Management**: Git, GitHub
+- **Version Management**: Git, GitHub, GitLab
 - **Monitoring**: Prometheus, Grafana, CloudWatch
 - **MW**: Apache, Nginx, Tomcat, Postfix, Fluentd
-- **Chat**: Slack, Google Chat, Teams
+- **Chat**: Slack, Google Chat, Matter Most
 - **Document**: Confluence, Notion
 - **Task Management**: Confluence, Notion
 - **PC** MacBook Pro
@@ -39,18 +39,17 @@
 
 ### 技術に対する向上心、学習意欲
 エンジニアとしてアプリケーション全体を見られるよう、インフラだけでなくバックエンド、フロントエンド、DB、CI/CD等幅広い技術領域を身につけたいと思い日々学習しております。  
-(仕事のためというのもありますが、コードを書くことが好き & 楽しいためです。)
-
-最近はアプリケーション側に最も興味を持っているため、Go,TypeScriptの開発に取り組んでおります。
+業務時間外でもTODOアプリや個人開発に取り組んでます。
 
 ### 主体的な課題発見と解決
 「こんな機能があったら良いな」「このコードはリファクタリングした方が良い」等、放置せず可能な限り対応することを心掛けております。
-チームとして任せていただけるタスクもありますが、中長期的な目線で自分なりに問題点や課題を見つけ解決まで実行することを意識しています。
+チームとして任せていただけるタスクもありますが、中長期的な目線で自分なりに問題点や課題を見つけて提案し、解決まで実行することを意識しています。
 
 ## アウトプット
 
 - **GitHub**: https://github.com/takehiro1111
 - **Zenn**: https://zenn.dev/takehiro1111
+- **Qita** https://qiita.com/takehiro1111
 
 # 職務経歴詳細
 
