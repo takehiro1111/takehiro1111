@@ -127,7 +127,7 @@
 - **DB**: RDS for PostgreSQL 14.4
 - **MW**: Apache, mod_jk, Tomcat, HULFT, Postfix, Create!Form, Zabbix
 
-## SES営業（正社員）
+## SES営業
 
 ### 業務内容
 - システム開発、WEB制作、基盤構築等の案件獲得
