@@ -61,7 +61,7 @@
 2025年11月 ~ 現在
 ### 役割
 - **言語**: TypeScript, Python, Go
-- **FW**: Nest.js, Hono, FastAPI
+- **FW**: Next.js, Hono, FastAPI
 - **基盤**: AWS, Google Cloud
 - **DB**: Aurora MySQL, Cloud SQL for PostgreSQL
 - **IaC**: Terraform
