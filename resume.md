@@ -60,12 +60,15 @@
 ## 株式会社スリーシェイク
 2025年11月 ~ 現在
 ### 役割
-- Frontend
-- Backend
-- SRE
+- **言語**: TypeScript, Python, Go
+- **FW**: Nest.js, Hono, FastAPI
+- **基盤**: AWS, Google Cloud
+- **DB**: Aurora MySQL, Cloud SQL for PostgreSQL
+- **IaC**: Terraform
+- **監視**: Prometheus, Grafana, CloudWatch
 
 ### 案件
-- 決済基盤を運営する企業の内部基盤のアプリケーション開発,運用改善, インフラ構築
+- 決済基盤を運営する企業の内部基盤のアプリケーション開発,運用改善
 - 自社の新規プロダクト開発
 
 
@@ -76,7 +79,7 @@
 ### 技術スタック
 - **言語**: Python, TypeScript, JavaScript, Scala
 - **FW**: Nest.js, Sveltekit, Play
-- **基盤**: AWS, Azure, GCP
+- **基盤**: AWS, Azure, Google Cloud
 - **DB**: EC2 on MySQL, Aurora MySQL, DynamoDB, BigQuery, Redshift
 - **IaC**: Terraform, CloudFormation
 - **監視**: Prometheus, Grafana, CloudWatch, OpenSearch, Kibana
