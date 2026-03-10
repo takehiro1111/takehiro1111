@@ -4,7 +4,6 @@
 
 ```
 🔧 AS-IS: Frontend / Backend / SRE / Platform Engineer
-🌟 TO-BE: Product Engineer
 🎯 GOAL : Tech Lead
 ```
 ---
