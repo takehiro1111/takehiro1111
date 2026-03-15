@@ -9,11 +9,12 @@
 # 職務要約
 エンジニアとしてSRE,インフラをメインに約3年経験しております。  
 今までのSRE,インフラ側の経験を活かした上で、今後はプロダクトエンジニアとしてビジネス課題を主体的に見つけながらプロダクトの成長にコミットしたいと考えております。
+また、コミュニケーションを双方向でオープンに取り合える環境で仕事をしていきたいと考えております。
 
 # スキルセット
 
 ### 言語・フレームワーク
-- **業務**: Python, Go, TypeScript, JavaScript, Next.js, Hono
+- **業務**:  TypeScript, Go, Python, JavaScript, Next.js, Hono
 - **自己学習**: Go, Gin, TypeScript, React, Next.js, Express.js, Python, Flask, HTML, CSS
 
 ### DB
@@ -21,8 +22,8 @@
 
 ### インフラ
 - **クラウド**: AWS, Google Cloud, Azure
-- **コンテナ**: Docker, ECS
-- **IaC**: Terraform, AWS SAM
+- **コンテナ**: Docker, ECS, EKS
+- **IaC**: Terraform, AWS SAM, Serverless Framework
 - **CI/CD**: GitHub Actions, GitLab CI/CD
 - **OS**: Red Hat Enterprise Linux 8.5, Amazon Linux 2, Windows Server 2019
 
@@ -69,8 +70,20 @@
 
 ### 案件
 - 決済基盤を運営する企業の内部基盤のアプリケーション開発,運用改善
-- 自社の新規プロダクト開発
+- 自社の新規プロダクト開発(社内OSS)
 
+#### 社内ポータルシステムのアプリケーションの機能開発,性能改善, インフラ運用改善
+- GitLab Runnerで実行されるビルドの速度改善
+- テナント(部署)配下のユーザー一覧機能の速度改善, ユーザー追加処理のUX改善
+- ユーザー登録機能のUI/UX改善
+- アプリケーション上からのECRリポジトリを操作する機能の設計, 実装
+- 軽微なバグ改修
+
+#### 自社生成AIアプリケーションの機能追加, 改善, バグ修正
+- UIでサイドバーの調整機能
+- スクロール機能
+- スレッドの切り替えやリロードの際に最新の会話が常に表示される
+- エラーメッセージの表示修正
 
 ## 株式会社ネクストビート
 **自社プロダクトのSRE（正社員）**  
