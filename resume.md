@@ -47,8 +47,8 @@
 
 # アウトプット
 
-- **GitHub**: https://github.com/takehiro1111
-- **Zenn**: https://zenn.dev/takehiro1111
+- **GitHub** https://github.com/takehiro1111
+- **Zenn** https://zenn.dev/takehiro1111
 - **Qita** https://qiita.com/takehiro1111
 
 ### ポートフォリオ
