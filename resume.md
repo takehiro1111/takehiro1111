@@ -40,12 +40,12 @@
 - **Task Management**: Confluence, Notion
 - **PC** MacBook Pro
 
-## 自己PR
+# 自己PR
 ### 主体的な課題発見と解決
 「こんな機能があったら良いな」「このコードはリファクタリングした方が良い」等、放置せず可能な限り対応することを心掛けております。
 主体的に課題を見つけタスク化して対応することを心がけています。
 
-## アウトプット
+# アウトプット
 
 - **GitHub**: https://github.com/takehiro1111
 - **Zenn**: https://zenn.dev/takehiro1111
