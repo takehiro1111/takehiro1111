@@ -60,9 +60,8 @@
 - **Zenn** https://zenn.dev/takehiro1111
 - **Qita** https://qiita.com/takehiro1111
 
-# 職務経歴詳細
 <br>
-
+# 職務経歴詳細
 ## 株式会社スリーシェイク(正社員)
 2025年11月 ~ 現在
 ### 役割
