@@ -6,7 +6,7 @@
 🔧 AS-IS: Frontend / Backend / SRE / Platform Engineer
 🎯 GOAL : Tech Lead
 ```
-## 📄 Curriculum Vitae
+## 📄 Resume
 [![Resume](https://img.shields.io/badge/Full_Resume-Click_Here-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/takehiro1111/takehiro1111/blob/main/resume.md)
 ---
 
