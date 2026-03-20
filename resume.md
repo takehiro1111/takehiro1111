@@ -88,8 +88,7 @@
 2023年10月 ~ 2025年10月(2年1ヶ月)
 
 ### 役割
-自社プロダクトのSRE
-
+- SRE
 
 ### 技術スタック
 - **言語**: Python, TypeScript, JavaScript, Scala
