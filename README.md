@@ -6,6 +6,10 @@
 🔧 AS-IS: Frontend / Backend / SRE / Platform Engineer
 🎯 GOAL : Tech Lead
 ```
+
+## Resume
+https://github.com/takehiro1111/takehiro1111/blob/main/resume.md
+
 ---
 
 ## 📝 Output
