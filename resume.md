@@ -128,7 +128,7 @@
 - 新規,既存プロダクトのインフラ環境の設計,構築,運用改善,障害対応
 - 全環境のネットワーク構成をVPC Originへ移行
 - GCPリソースのTerraform化
-- GithubActionsでのCI/CD構築(AWS, Azure, Google Cloud, サーバレス)
+- GithubActionsでのCI/CD構築(AWS, Azure, Google Cloud, SAM)
 - GA4からBigQueryへのデータ連携パイプラインを構築し、Redashで可視化
 - 全セキュリティグループの整備、公式Moduleへのリファクタリング
 - MySQLのDB基盤をEC2からAuroraへ移行
