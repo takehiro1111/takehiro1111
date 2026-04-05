@@ -7,7 +7,7 @@
 🎯 GOAL : Tech Lead
 ```
 ## 📄 Resume
-[![Resume](https://img.shields.io/badge/Full_Resume-Click_Here-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/takehiro1111/takehiro1111/blob/main/resume.md)
+[![Resume](https://img.shields.io/badge/Full_Resume-Click_Here-blue?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://takehiro1111.github.io/resume)
 ---
 
 ## 📝 Output
