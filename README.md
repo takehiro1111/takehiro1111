@@ -3,7 +3,7 @@
 [![X Follow](https://img.shields.io/twitter/follow/AT01955203?style=for-the-badge&logo=x&logoColor=white&label=Follow&color=000000)](https://x.com/AT01955203) [![Wantedly](https://img.shields.io/badge/Wantedly-21BDDB?style=for-the-badge&logo=wantedly&logoColor=white)](https://www.wantedly.com/id/takehiro_tanaka_x)
 
 ```
-🔧 AS-IS: Frontend / Backend / SRE
+🔧 AS-IS: Backend / SRE / Infra
 🎯 GOAL : Tech Lead
 ```
 ## 📄 Resume
